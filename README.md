@@ -17,13 +17,13 @@ This is a repository to organize the teaching material for [Machine Learning I](
   - Lab 1 (Feb. 14): 
   
 - Week 3 (Feb. 20-24). 
- - Lecture 4 (Feb. 20): 
- - Lab 2 (Feb. 21): 
+  - Lecture 4 (Feb. 20): 
+  - Lab 2 (Feb. 21): 
   
 - Week 4 (Feb. 27 - Mar. 3). 
- - Lecture 5 (Feb. 27): 
- - Lab 3 (Feb. 28): 
- - Lecture 6 (Mar. 1): 
+  - Lecture 5 (Feb. 27): 
+  - Lab 3 (Feb. 28): 
+  - Lecture 6 (Mar. 1): 
 
 - Week 5 (Mar. 6-10). 
   - Lecture 7 (Mar. 6): 
