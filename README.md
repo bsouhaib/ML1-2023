@@ -9,8 +9,8 @@ This is a repository to organize the teaching material for [Machine Learning I](
 # Content
 
 - Week 1 (Feb. 6-10). 
-  - Lecture 1 (Feb. 6):
-  - Lecture 2 (Feb. 8): 
+  - Lecture 1 (Feb. 6): Introduction to Machine Learning
+  - Lecture 2 (Feb. 8): Review of probability and statistics
 
 - Week 2 (Feb. 13-17). 
   - Lecture 3 (Feb. 13): 
