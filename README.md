@@ -15,7 +15,7 @@ This is a repository to organize the teaching material for [Machine Learning I](
 
 - Week 2 (Feb. 13-17). 
   - Lecture 3 (Feb. 13): Learning framework [[slides (PDF)]](./slides/lecture3-learning-framework.pdf)
-  - Lab 1 (Feb. 14): 
+  - Lab 1 (Feb. 14): Review of probability and statistics [[Lab 1]](./labs/lab1/)
   
 - Week 3 (Feb. 20-24). 
   - Lecture 4 (Feb. 20): 
