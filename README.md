@@ -5,6 +5,7 @@ This is a repository to organize the teaching material for [Machine Learning I](
 # Course links
 
 - [Moodle (for discussion forum, assignments)](https://moodle.umons.ac.be/course/view.php?id=2785)
+- [Pandas Tutorials](https://pandas.pydata.org/docs/user_guide/10min.html#operations)
 
 # Content
 
@@ -19,7 +20,7 @@ This is a repository to organize the teaching material for [Machine Learning I](
   
 - Week 3 (Feb. 20-24). 
   - Lecture 4 (Feb. 20): 
-  - Lab 2 (Feb. 21): 
+  - Lab 2 (Feb. 21): Exploratory Data Analysis [[Lab 2]](./labs/lab2/)
   
 - Week 4 (Feb. 27 - Mar. 3). 
   - Lecture 5 (Feb. 27): 
