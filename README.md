@@ -19,11 +19,11 @@ This is a repository to organize the teaching material for [Machine Learning I](
   - Lab 1 (Feb. 14): Review of probability and statistics [[Lab 1]](./labs/lab1/)
   
 - Week 3 (Feb. 20-24). 
-  - Lecture 4 (Feb. 20): 
+  - Lecture 4 (Feb. 20): Learning framework (continued)
   - Lab 2 (Feb. 21): Exploratory Data Analysis [[Lab 2]](./labs/lab2/)
   
 - Week 4 (Feb. 27 - Mar. 3). 
-  - Lecture 5 (Feb. 27): 
+  - Lecture 5 (Feb. 27): Learning framework (optimal predictions, bias and variance decomposition/tradeoff) [[Optimal predictions (PDF)]](./slides/lecture5-optimal-predictions.pdf) [[Bia and variance (PDF)]](./slides/lecture6-bias-variance.pdf)
   - Lab 3 (Feb. 28): 
   - Lecture 6 (Mar. 1): 
 
