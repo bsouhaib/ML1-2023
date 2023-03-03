@@ -25,24 +25,24 @@ This is a repository to organize the teaching material for [Machine Learning I](
 - Week 4 (Feb. 27 - Mar. 3). 
   - Lecture 5 (Feb. 27): Learning framework (optimal predictions, bias and variance decomposition/tradeoff) [[Optimal predictions (PDF)]](./slides/lecture5-optimal-predictions.pdf) [[Bia and variance (PDF)]](./slides/lecture6-bias-variance.pdf)
   - Lab 3 (Feb. 28): 
-  - Lecture 6 (Mar. 1): 
+  - Lab 4 (Mar. 3): 
 
 - Week 5 (Mar. 6-10). 
-  - Lecture 7 (Mar. 6): 
-  - Lab 4 (Mar. 8): 
+  - Lecture 7 (Mar. 6): [[Bia and variance (PDF)]](./slides/lecture6-bias-variance.pdf) + the bootstrap
+  - Lab 5 (Mar. 8): 
 
 - Week 6 (Mar. 13-17). 
   - Lecture 8 (Mar. 13): 
-  - Lab 5 (Mar. 14): 
+  - Lab 6 (Mar. 14): 
 
 - Week 7 (Mar. 20-24). 
   - Lecture 9 (Mar. 20): 
   - Lecture 10 (Mar. 21): 
-  - Lab 6 (Mar. 22): 
+  - Lab 7 (Mar. 22): 
 
 - Week 8 (Mar. 28-31). 
-  - Lab 7 (Mar. 27): 
-  - Lab 8 (Mar. 28): 
+  - Lab 8 (Mar. 27): 
+  - Lab 9 (Mar. 28): 
 
 
 **Spring Break**
