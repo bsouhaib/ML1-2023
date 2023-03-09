@@ -29,7 +29,7 @@ This is a repository to organize the teaching material for [Machine Learning I](
 
 - Week 5 (Mar. 6-10). 
   - Lecture 7 (Mar. 6): [[Bia and variance (PDF)]](./slides/lecture6-bias-variance.pdf) + the bootstrap
-  - Lab 5 (Mar. 8): 
+  - Lab 5 (Mar. 8): Model Selection + Bias-Variance Trade-off [[Lab 5]](./labs/lab5/)
 
 - Week 6 (Mar. 13-17). 
   - Lecture 8 (Mar. 13): 
