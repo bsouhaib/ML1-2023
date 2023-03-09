@@ -23,12 +23,12 @@ This is a repository to organize the teaching material for [Machine Learning I](
   - Lab 2 (Feb. 21): Exploratory Data Analysis [[Lab 2]](./labs/lab2/)
   
 - Week 4 (Feb. 27 - Mar. 3). 
-  - Lecture 5 (Feb. 27): Learning framework (optimal predictions, bias and variance decomposition/tradeoff) [[Optimal predictions (PDF)]](./slides/lecture5-optimal-predictions.pdf) [[Bia and variance (PDF)]](./slides/lecture6-bias-variance.pdf)
+  - Lecture 5 (Feb. 27): Learning framework (optimal predictions, bias and variance decomposition/tradeoff) [[Optimal predictions (PDF)]](./slides/lecture5-optimal-predictions.pdf) [[Bias and variance (PDF)]](./slides/lecture6-bias-variance.pdf)
   - Lab 3 (Feb. 28): Introduction to Scikit-Learn [[Lab 3]](./labs/lab3/)
   - Lab 4 (Mar. 3): Model Selection [[Lab 4]](./labs/lab4/)
 
 - Week 5 (Mar. 6-10). 
-  - Lecture 7 (Mar. 6): [[Bia and variance (PDF)]](./slides/lecture6-bias-variance.pdf) + the bootstrap
+  - Lecture 7 (Mar. 6): Bias and variance (continued) + The bootstrap [[Slides (PDF)]](./slides/lecture7-bootstrap.pdf)
   - Lab 5 (Mar. 8): 
 
 - Week 6 (Mar. 13-17). 
