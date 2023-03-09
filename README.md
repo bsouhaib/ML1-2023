@@ -32,12 +32,12 @@ This is a repository to organize the teaching material for [Machine Learning I](
   - Lab 5 (Mar. 8): 
 
 - Week 6 (Mar. 13-17). 
-  - Lecture 8 (Mar. 13): 
+  - Lecture 8 (Mar. 13): Linear regression
   - Lab 6 (Mar. 14): 
 
 - Week 7 (Mar. 20-24). 
-  - Lecture 9 (Mar. 20): 
-  - Lecture 10 (Mar. 21): 
+  - Lecture 9 (Mar. 20): Linear classification
+  - Lecture 10 (Mar. 21): Tree-based methods
   - Lab 7 (Mar. 22): 
 
 - Week 8 (Mar. 28-31). 
